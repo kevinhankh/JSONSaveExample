@@ -8,7 +8,9 @@ Description:
 An example of saving/loading game data to a Json file.
 
 Instructions:
-- Create an empty game object and attach this script to it.
+- Create a new Unity project.
+- Import SaveExample.cs script to the project.
+- Create an empty game object and attach the script to it.
 - Open the console tab to view saving system in action.
 - Press play in the Unity editor to begin. NewGame() will be automatically called to set initial data.
 - Press the 'S' key to save data to a Json file.
