@@ -30,7 +30,7 @@ public class PlayerData
     public Vector3 position;
 }
 
-public class SaveExample : MonoBehaviour
+public class JSONSaveExample : MonoBehaviour
 {
     PlayerData playerData;
     string saveFilePath;
